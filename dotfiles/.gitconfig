@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = ghd.abdallah@gmail.com
+	name = abdallah ghdiri
+[pull]
+	rebase = true
